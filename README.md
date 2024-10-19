@@ -23,9 +23,9 @@ npx cypress open (para abrir o cypress)
 
 Assim que o Cypress abrir, escolha a opção **E2E Testing** e clica em **continue**
 
-Copie os arqivos **compraLogin.cy.js** e ** desafioAPI-GET.cy.js** e coloca na pasta que foi instalada o cypress, na pasta Cypress -> 
+Copie os arqivos **compraLogin.cy.js** e **desafioAPI-GET.cy.js** e coloca na pasta que foi instalada o cypress, na pasta Cypress -> 
 e2e
 
 Seleciona um navegador de sua preferência e clica em Start E2E Testing in...
 
-Procure pelos arquivos **compraLogin.cy.js** e ** desafioAPI-GET.cy.js** e clica em um deles para que os testes sejam realizados e pronto, está feito os testes :)
+Procure pelos arquivos **compraLogin.cy.js** e **desafioAPI-GET.cy.js** e clica em um deles para que os testes sejam realizados e pronto, está feito os testes :)
